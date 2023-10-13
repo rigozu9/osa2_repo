@@ -1,3 +1,4 @@
-githubin kautta lisätty rivi testi 2
+moi mitä kuuluu moi 
 moIII
 tämä rivi lisätty
+lisätty terminaalista test 2
