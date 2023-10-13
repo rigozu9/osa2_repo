@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 banaani
+=======
+eka tuote taas vaihdettu pizzaksi test2
+>>>>>>> 8b85a995291ce8f152648402810af95ae7e3f88f
 kakku
 chelseapiata
 toinbe pizza kosk teki mieli lisätty vika rivi merge glutch
